@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Testing Next.js with Vercel and logging with LogDNA.</p>
+        <p>Testing and Creating a Blog with Next.js using Vercel and logging with LogDNA.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
